@@ -1,0 +1,6 @@
+{
+  "name": "Gor & Gayane Spanish Battle",
+  "description": "An interactive Spanish grammar quiz battle (Subjuntivo & Indicativo) for Gor and Gayane with Armenian translations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
